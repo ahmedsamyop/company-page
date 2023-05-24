@@ -1,2 +1,4 @@
 # company-page
-Landing Page for Company Html, Css & Javascript
+Tempelete Front-End <br>
+this project created by HTML , CSS, SCSS and Javascript <br>
+Responsive, Interactive Design
