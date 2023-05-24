@@ -279,6 +279,12 @@ btnTop.addEventListener('click', () => {
   })
 })
 
+let button = document.querySelector('input[type="submit"]')
+button.addEventListener('click', (e) => {
+  e.preventDefault()
+  alert(`Not working at the moment`)
+})
+
 //-------------------------------------
 // Functions
 //-------------------------------------
